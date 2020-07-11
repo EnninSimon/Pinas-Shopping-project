@@ -1,0 +1,167 @@
+.space{
+	justify-content: space-around;
+	padding-top: 30px;
+	border-radius: 20%;
+}
+
+.price{
+	font-weight: 30px;
+	font-size: 22px;
+}
+
+
+.label{
+	color: white;
+}
+
+.whole-bar{
+	margin-bottom:  10px;
+}
+
+.add-to-cart{
+	background-color: black;
+	padding-top: 8px;
+	padding-bottom: 8px;
+	margin-left:  18px;
+	margin-right: 18px;
+	border-radius: 14px;
+}
+
+.img-responsive, .thumbnail > img, 
+.thumbnail a > img, 
+.carousel-inner > .item > img, 
+.carousel-inner > .item > a > img {
+    display: block;
+        height: 230px;
+        max-width: 100%;
+        line-height: 1;
+        width: 100%;
+        padding-top: -2rem;
+}
+
+.carousel{
+	width: auto;
+	margin-left: 75px;
+	margin-right: 55px;
+}
+
+.sort-by-label .best-match{
+	color: black;
+	padding: 10px;
+	border-style: groove;
+	border-radius: 5px;
+	cursor: pointer;
+}
+
+.sort-by-label .newest{
+	color: black;
+	padding: 10px;
+	border-style: groove;
+	border-radius: 5px;
+	cursor: pointer;
+}
+
+
+.price-min{
+	color: black;
+	padding: 10px;
+	border-style: groove;
+	border-radius: 5px;
+}
+
+.fa-search{
+	width: 37px;
+	padding: 13px;
+	justify-content: center;
+	border-color: 2px solid pink;
+}
+
+button, optgroup, select, textarea {
+    color: white;
+    font: inherit;
+    margin: 0;
+    background-color: #333333;
+    border-radius: 5px;
+}
+
+.search-bar input {
+	border-radius: 5px;
+}
+
+.mynav{
+	border-radius: 0px;
+	width: 100%;
+
+}
+
+.space .shipping {
+	color: rgba(0, 0, 0, 0.5);
+}
+
+
+.footer{
+	background-color: #333333;
+	padding-bottom:  0.5rem;
+	padding-top: 1.5rem;
+	color: #fff;
+	width: auto;
+}
+
+
+.bottom button{
+	font-size: 10px;
+	border-radius: 45%;
+	margin: 5px;
+	background-color: #d6caca;
+	color: black;
+}
+
+
+button, optgroup, select, textarea {
+    color: white;
+    font: inherit;
+    margin: 0;
+    background-color: #333333;
+    border-radius: 5px;
+}
+
+.price .rem{
+	color: rgba(0, 0, 0, 0.5);
+
+}
+
+h5, .h5 {
+    font-size: 14px;
+    opacity: 0.7;
+}
+
+.products{
+	margin-top: 18px;
+}
+
+
+#fade-text{
+	opacity: 0.7;
+	font-size: 12px;
+	font-family: cursive;
+}
+
+.add-to-cart{
+	cursor: pointer;
+}
+
+.thumbnail img{
+	cursor: pointer;
+}
+
+.but-size{
+	font-size: 17px;
+}
+
+.no-of-prod{
+	font-size: 12px;
+}
+
+
+.img-responsive, .thumbnail > img, .thumbnail {
+    border-radius:  3%;
